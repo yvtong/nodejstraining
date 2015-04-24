@@ -1,4 +1,5 @@
 // Another implementation:
+// please run " node install " under the project folder before running this script 
 
 /* underscore is a very powerful library   
    REFERENCE: https://github.com/jashkenas/underscore 
